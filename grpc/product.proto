@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package product;
+
+option go_package = "github.com/verdex4/go-course-ozon/grpc/pkg/api/product;product"; 
+
+message Request {
+    int64 sku = 1;
+}
+
+message Response {
+    int64 sku = 1;
+    string name = 2;
+    uint32 price = 3;
+}
+
+service ProductService {
+    rpc GetProduct (Request) returns (Response);
+}
