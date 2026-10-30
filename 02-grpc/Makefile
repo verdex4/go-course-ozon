@@ -1,4 +1,4 @@
-.PHONY: version generate run
+.PHONY: version generate run-all
 
 version:
 	go version
