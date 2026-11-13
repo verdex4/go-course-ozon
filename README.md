@@ -6,3 +6,4 @@
 | :--- | :--- |
 | **ДЗ 1.** Основы Go: консольный task tracker | [Корень проекта с ДЗ 1](https://github.com/verdex4/go-course-ozon/tree/main/01-task-tracker) |
 | **ДЗ 2.** Веб-сервисы: HTTP, gRPC API | [Корень проекта с ДЗ 2](https://github.com/verdex4/go-course-ozon/tree/main/02-grpc) |
+| **ДЗ 3.** Тестирование и конкурентность | [Корень проекта с ДЗ 3](https://github.com/verdex4/go-course-ozon/tree/homework-3/03-test-concurrency) |
